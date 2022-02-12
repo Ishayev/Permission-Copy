@@ -7,6 +7,8 @@ I wrote a script that will get you all permissions of each user!
 
 2.You will be Able to remove all permissions from user in other mailboxes.
 
+##365##
+
 After you run 1/2(1-contacts 2- calendar)checking permissions in all users, you will get a pop out of two TXT files(if you use Hebrew edition too, in English only one will be showen).
 You will see where they have permissions, you will be able to copy the permissions to other user or delete them all!.
 
