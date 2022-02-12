@@ -10,7 +10,7 @@ function Show-Menu
     Write-Host "================ $Title ================"
     Write-Host "1: Get Contacts Permissions."
     Write-Host "2: Get Calendar Permissions."
-    Write-Host "3: Remove Contacts Permissions English(After 1 ONLY)."
+    Write-Host "3: Remove Contacts Permissions(After 1 ONLY)."
     Write-Host "4: Remove Calendar Permissions(After 2 ONLY)."
     Write-Host "5: Add Contacts Permissions(After 1 ONLY)."
     Write-Host "6: Add Calendar Permissions(After 2 ONLY)."
